@@ -2,8 +2,8 @@
 Contributors: essentialplugin
 Tags: post design, post designer, post layout design, blog post widget, recent post slider
 Requires at least: 4.0
-Tested up to: 6.8.1
-Stable tag: 2.7.5
+Tested up to: 6.8.3
+Stable tag: 2.7.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -163,6 +163,9 @@ Where designs are : design-1, design-2. You can use same parameter with Slider s
 3. Also work with Gutenberg shortcode block.
 
 == Changelog ==
+
+= 2.7.6 (12, Nov 2025) =
+* [*] Check compatibility with WordPress version 6.8.3
 
 = 2.7.5 (16, May 2025) =
 * [*] Updated some URL's
